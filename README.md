@@ -7,7 +7,7 @@
 The NLP Twitter Disaster Classifier is a machine learning project designed to classify tweets as either related to natural disasters or not. Using Natural Language Processing (NLP) techniques and various machine learning models, this project aims to enhance disaster response by analyzing social media data.
 
 ## Database
-The database used in this project can be found here [Keggle](https://www.kaggle.com/competitions/nlp-getting-started)
+The database used in this project can be found here [Kaggle](https://www.kaggle.com/competitions/nlp-getting-started)
 
 ## Purpose
 
